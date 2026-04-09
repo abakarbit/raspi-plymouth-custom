@@ -249,18 +249,7 @@ The script eliminates empty space by:
 - Screen: 1024×768 (4:3)
 - Scale result: 1024×576 (letterbox with bars top/bottom)
 
-### Future Enhancement Possibilities
 
-- [ ] Animation support (sprite sequences)
-- [ ] Gradient backgrounds
-- [ ] Countdown timer display
-- [ ] Progress bars during boot
-- [ ] Multi-language text support
-- [ ] Configuration file for customization without code editing
-
-## License
-
-*Not specified in source code. If distributing, add appropriate LICENSE file.*
 
 ## Support
 
