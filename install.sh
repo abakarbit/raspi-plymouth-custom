@@ -7,7 +7,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 
-THEME_NAME="has"
+THEME_NAME="abit"
 THEME_DIR="/usr/share/plymouth/themes/$THEME_NAME"
 
 mkdir -p "$THEME_DIR"

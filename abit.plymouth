@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=abit
+Description=Image Desktop Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/abit
+ScriptFile=/usr/share/plymouth/themes/abit/abit.script
